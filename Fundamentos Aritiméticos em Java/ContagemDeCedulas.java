@@ -11,8 +11,7 @@ Saída
 Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha.
 
 Exemplo de Entrada		Exemplo de Saída
-576 				576
-				5 nota(s) de R$ 100,00
+576 				5 nota(s) de R$ 100,00
 				1 nota(s) de R$ 50,00
 				1 nota(s) de R$ 20,00
 				0 nota(s) de R$ 10,00
