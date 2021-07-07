@@ -1,7 +1,3 @@
-<p align="center">
-      <img src="./imagens/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 # Desafios-Bootcamps-DIO
 
 ### Contatos
